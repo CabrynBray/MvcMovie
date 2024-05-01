@@ -20,3 +20,27 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+input,
+select {
+  padding: 5px;
+  font-weight: 450;
+}
+
+#filter {
+  padding: 5px;
+  font-weight: bold;
+  margin: 5px;
+}
+
+.form-group {
+  padding: 5px;
+  font-weight: 700;
+}
+
+.col-sm-2 {
+  padding: 5px;
+  font-weight: 700;
+
+}
+
